@@ -1,4 +1,8 @@
 _repo: Children-of-the-Dead-End-The-Autobiography-of-an-Irish-Navvy_50324
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50324-h/images/cover.jpg
 creator:
   author:
     agent_name: MacGill, Patrick
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6474
     wikipedia: http://en.wikipedia.org/wiki/Patrick_MacGill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50324#Children-of-the-Dead-End-The-Autobiography-of-an-Irish-Navvy
 gutenberg_issued: '2015-10-27'
 gutenberg_type: Text
 identifiers:
